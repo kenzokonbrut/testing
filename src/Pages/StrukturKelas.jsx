@@ -215,6 +215,9 @@ const StrukturKelas = () => {
 						<BorderStruktur Jabatan="" Nama="Hendri" Width="120px" />
 					</div>
 				</div>
+						<BorderStruktur Jabatan="" Nama="Hendri" Width="120px" />
+					</div>
+				</div>
 
 				{/* Kesehatan */}
 				<div className="lg:flex">
